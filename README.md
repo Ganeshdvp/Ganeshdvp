@@ -4,6 +4,7 @@
 
 <p align='center'><img src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif' alt='img-developer' /> </p><br/><br/>
 
+<h2>📑Details😃</h2>
 <p> - 🔸 I’m currently learning - backend technologies 🫡</p>
 <p> - 🔸 All of my projects are available at - coming soon..😁</p>
 <p> - 🔸 Know about my experiences - Fresher 🤓</p>
@@ -41,9 +42,10 @@ Description: A single-page application developed with React.js. Utilizes Redux f
 
 
 <h2>🧐Get in touch🤓</h2>
-<p><img src='https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=for-the-badge' alt=''/> </p>
-<p><img src='https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=fff&style=for-the-badge' alt=''/></p>
-<p><img src='https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff&style=for-the-badge' alt=''/></p>
+ <p><img width=50px src='https://upload.wikimedia.org/wikipedia/commons/f/f9/Linkedin_Shiny_Icon.svg' alt=''/>
+ <img width=50px src='https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg' alt=''/>
+ <img width=50px src='https://upload.wikimedia.org/wikipedia/commons/2/24/Gmail_Faenza.svg' alt=''/>
+ </p>
 
 
 <h2>🤝Let's connect🤝 </h2>
