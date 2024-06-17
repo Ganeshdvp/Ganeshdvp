@@ -39,19 +39,19 @@
 ### Project 1: Responsive Website
 
 Description: A stunning website built using HTML and CSS. Includes smooth animations and responsive design.
-<p> Responsive Website (Coming soon...) </p>
+<p> Responsive Website (<a href= ' '>https://responsivewebpages.netlify.app</a>) </p>
 
 ### Project 2: Gemini Clone
 
 Description: A single-page application developed by using Vite tool with React.js. This project aims to create a lightweight, efficient implementation of the Gemini protocol. The Gemini protocol is a simple, text-based protocol designed for efficient and secure access to information over the internet. This repository provides tools for hosting Gemini content and browsing Gemini sites.
 
-<p> Gemini Clone (Coming soon...) </p>
+<p> Gemini Clone (<a href= ' ' >https://gemini-clone-website.netlify.app</a>) </p>
 
-### Project 3: CoinsTrack
+### Project 3: CryptoTrack
 
 Description: Built using HTML, CSS, JavaScript and React.js along with react routers. it offers a user-friendly interface to view real-time coin prices, track investments, and visualize portfolio performance through charts and graphs.  This project utilizes APIs to fetch live data and includes responsive design for seamless usage across devices.
 
-<p> CoinsTrack (Coming soon...)</p>
+<p> CryptoTrack (<a href= ' '>https://cryptotrackweb.netlify.app</a>)</p>
 
 <br/>
 
