@@ -53,6 +53,12 @@ Description: Built using HTML, CSS, JavaScript and React.js along with react rou
 
 <p> CryptoTrack Link- (<a href= 'https://cryptotrackweb.netlify.app'>https://cryptotrackweb.netlify.app</a>)</p>
 
+### Project 4: YoutubeClone
+
+Description: Built using HTML, CSS, JavaScript and React.js along with react routers. A YouTube clone website frontend is a web interface designed to mimic YouTube's layout and functionality. It includes features such as a dynamic homepage with video thumbnails, a responsive video player, user-friendly navigation and individual video pages with comment sections and related video suggestions. The design focuses on providing a seamless and engaging user experience for browsing and interacting with video content.
+<p> Youtube Clone Link- (<a href= 'https://youtubecloneweb-site.netlify.app'>https://youtubecloneweb-site.netlify.app</a>)</p>
+
+
 <br/>
 
 <h2>🧐Get in touch🤓</h2>
