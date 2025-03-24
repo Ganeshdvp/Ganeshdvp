@@ -63,7 +63,7 @@ Description: Built using HTML, CSS, JavaScript and React.js along with react rou
 
 <h2>🧐Get in touch🤓</h2>
  <p><a href="www.linkedin.com/in/cherupalli-ganesh"><img width=50px src='https://upload.wikimedia.org/wikipedia/commons/f/f9/Linkedin_Shiny_Icon.svg' alt=''/></a>
- <img width=50px src='https://upload.wikimedia.org/wikipedia/commons/e/e7/Instagram_logo_2016.svg' alt=''/>
+ 
  <img width=50px src='https://upload.wikimedia.org/wikipedia/commons/2/24/Gmail_Faenza.svg' alt=''/>
  </p>
 
