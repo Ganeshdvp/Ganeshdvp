@@ -8,7 +8,7 @@
 <p> - 🔸 I’m currently learning - backend technologies 🫡</p>
 <p> - 🔸 All of my projects are available at - coming soon..😁</p>
 <p> - 🔸 Know about my experiences - Fresher 🤓</p>
-<p> - 🔸 How to reach me - Not available now 😊 </p>
+<p> - 🔸 How to reach me - ganeshcherupalli6565@gmail.com</p>
 
 <br/><br/>
 
