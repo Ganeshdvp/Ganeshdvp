@@ -36,27 +36,52 @@
 
 <h2> ☑️ Projects 💼 </h2>
 
-### Project 1: Responsive Website
+### Project 1: CryptoTrack
 
-Description: A stunning website built using HTML and CSS. Includes smooth animations and responsive design.
-<p> Responsive Webpage Link- (<a href= 'https://responsivewebpages.netlify.app'>https://responsivewebpages.netlify.app</a>) </p>
-
-### Project 2: Gemini Clone
-
-Description: A single-page application developed by using Vite tool with React.js. This project aims to create a lightweight, efficient implementation of the Gemini protocol. The Gemini protocol is a simple, text-based protocol designed for efficient and secure access to information over the internet. This repository provides tools for hosting Gemini content and browsing Gemini sites.
-
-<p> Gemini Clone Link- (<a href= 'https://gemini-clone-website.netlify.app' >https://gemini-clone-website.netlify.app</a>) </p>
-
-### Project 3: CryptoTrack
-
-Description: Built using HTML, CSS, JavaScript and React.js along with react routers. it offers a user-friendly interface to view real-time coin prices, track investments, and visualize portfolio performance through charts and graphs.  This project utilizes APIs to fetch live data and includes responsive design for seamless usage across devices.
+Description: It offers a user-friendly interface to view real-time coin prices, track investments, and visualize portfolio performance through charts and graphs. This project utilizes APIs to fetch live data and includes responsive design for seamless usage across devices.
+Key Features:
+- Real-time cryptocurrency price tracking
+- Interactive portfolio performance charts
+- Added Login form by using Formik
+- Responsive design for all devices
+- Made by using HTML5, CSS3, JavaScript, ReactJS and Charts.js
 
 <p> CryptoTrack Link- (<a href= 'https://cryptotrackweb.netlify.app'>https://cryptotrackweb.netlify.app</a>)</p>
 
-### Project 4: YoutubeClone
+### Project 2: GO-CHAT-AI
 
-Description: Built using HTML, CSS, JavaScript and React.js along with react routers. A YouTube clone website frontend is a web interface designed to mimic YouTube's layout and functionality. It includes features such as a dynamic homepage with video thumbnails, a responsive video player, user-friendly navigation and individual video pages with comment sections and related video suggestions. The design focuses on providing a seamless and engaging user experience for browsing and interacting with video content.
-<p> Youtube Clone Link- (<a href= 'https://youtubecloneweb-site.netlify.app'>https://youtubecloneweb-site.netlify.app</a>)</p>
+Description: Developed a single-page application by using Vite tool with React.js and integrated the Gemini API for real-time conversational capabilities. Focused on responsive UI design, optimized rendering, and seamless user interactions.
+Key Features:
+- Users can give prompt and get response instantly
+- Displays recent chats
+- Added SignUp and SignIn forms by using Formik
+- Responsive design for all devices
+- Made by using HTML5, CSS3, JavaScript and ReactJS
+- 
+<p> GO-CHAT-AI Link- (<a href= 'https://go-chat-ai.netlify.app/'>https://youtubecloneweb-site.netlify.app</a>)</p>
+
+### Project 3: Watch Time
+
+Description: Developed a YouTube-like video streaming platform using React and Vite, integrating the YouTube API to fetch and display real-time videos, channels, and search results. Designed a responsive UI for smooth user experience.
+Key Features:
+- Displays recommended videos, likes, comments and views counts.
+- Users can search videos whatever they want.
+- Responsive Video player for watching videos and added controls too.
+- Fully Responsive design for all devices
+- Made by using HTML5, CSS3, JavaScript, ReactJS and moment.js
+
+<p> Watch Time Link- (<a href= 'https://watch-time-web.netlify.app/'>https://youtubecloneweb-site.netlify.app</a>)</p>
+
+### Project 4: Portfolio
+
+Description: Designed and developed a responsive personal portfolio website to showcase projects, skills, and contact information. Focused on clean UI, smooth navigation, and mobile-friendly design for optimal user experience.
+Key Features:
+- Clean and attractive portfolio
+- Added themes
+- Responsive design for all devices
+- Made by using HTML5, CSS3, JavaScript and Tailwind CSS
+
+<p> Portfolio Link- (<a href= 'https://myportfolio515.netlify.app/'>https://youtubecloneweb-site.netlify.app</a>)</p>
 
 
 <br/>
