@@ -51,6 +51,7 @@ Key Features:
 - Made by using HTML, CSS, JavaScript, ReactJS, Tailwind CSS, Formik, Redux, Axios, Firebase and cloudflare
 
 Performance:
+
   Performance: 96%
   Accessibility: 95%
   SEO: 100%
