@@ -53,7 +53,9 @@ Key Features:
 Performance:
 
   Performance: 96%
+  
   Accessibility: 95%
+  
   SEO: 100%
   
 Impact📌:
