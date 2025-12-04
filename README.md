@@ -52,11 +52,11 @@ Key Features🛡️:
 
 Performance📡:
 
-  Performance: 96%
+  - Performance: 96%
   
-  Accessibility: 95%
+  - Accessibility: 95%
   
-  SEO: 100%
+  - SEO: 100%
   
 Impact📌:
 - Improved user experience with faster load times, reduced API calls, and ensured high accessibility and SEO standards, making the platform efficient and user-friendly.
