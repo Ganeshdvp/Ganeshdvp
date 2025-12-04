@@ -39,6 +39,7 @@
 ### Project 1: HyperFlix – Movie Streaming Platform
 
 Description: Developed a fully responsive movie streaming web application with dynamic movie listing and search functionality. Implemented Firebase authentication for secure user login and registration. Ensured form validations using Formik and optimized API calls with state memorization through Redux and Axios. Enabled multi-language support and deployed the application on Cloudflare for high availability.
+
 Key Features:
 - Displayed dynamic movie lists and implemented real-time search functionality.
 - Integrated Firebase authentication for user login and registration.
@@ -48,12 +49,13 @@ Key Features:
 - Enhanced accessibility, SEO, and best practices compliance.
 - Deployed on Cloudflare for global performance and reliability.
 - Made by using HTML, CSS, JavaScript, ReactJS, Tailwind CSS, Formik, Redux, Axios, Firebase and cloudflare
+
 Performance:
   Performance: 96%
   Accessibility: 95%
   SEO: 100%
   
-📌Impact:
+Impact📌:
 - Improved user experience with faster load times, reduced API calls, and ensured high accessibility and SEO standards, making the platform efficient and user-friendly.
 
  <p> HyperFlix Link- (<a href= 'https://hyperflix-5h8.pages.dev/'>https://hyperflix-5h8.pages.dev/</a>)</p>
@@ -61,6 +63,7 @@ Performance:
 ### Project 2: CryptoTrack
 
 Description: It offers a user-friendly interface to view real-time coin prices, track investments, and visualize portfolio performance through charts and graphs. This project utilizes APIs to fetch live data and includes responsive design for seamless usage across devices.
+
 Key Features:
 - Real-time cryptocurrency price tracking
 - Interactive portfolio performance charts
@@ -73,6 +76,7 @@ Key Features:
 ### Project 3: GO-CHAT-AI
 
 Description: Developed a single-page application by using Vite tool with React.js and integrated the Gemini API for real-time conversational capabilities. Focused on responsive UI design, optimized rendering, and seamless user interactions.
+
 Key Features:
 - Users can give prompt and get response instantly
 - Displays recent chats
@@ -85,6 +89,7 @@ Key Features:
 ### Project 4: Watch Time
 
 Description: Developed a YouTube-like video streaming platform using React and Vite, integrating the YouTube API to fetch and display real-time videos, channels, and search results. Designed a responsive UI for smooth user experience.
+
 Key Features:
 - Displays recommended videos, likes, comments and views counts.
 - Users can search videos whatever they want.
@@ -97,6 +102,7 @@ Key Features:
 ### Project 5: Portfolio
 
 Description: Designed and developed a responsive personal portfolio website to showcase projects, skills, and contact information. Focused on clean UI, smooth navigation, and mobile-friendly design for optimal user experience.
+
 Key Features:
 - Clean and attractive portfolio
 - Added themes
