@@ -40,7 +40,7 @@
 
 Description: Developed a fully responsive movie streaming web application with dynamic movie listing and search functionality. Implemented Firebase authentication for secure user login and registration. Ensured form validations using Formik and optimized API calls with state memorization through Redux and Axios. Enabled multi-language support and deployed the application on Cloudflare for high availability.
 
-Key Features:
+Key Features🛡️:
 - Displayed dynamic movie lists and implemented real-time search functionality.
 - Integrated Firebase authentication for user login and registration.
 - Implemented form validations using Formik for improved user input accuracy.
@@ -50,7 +50,7 @@ Key Features:
 - Deployed on Cloudflare for global performance and reliability.
 - Made by using HTML, CSS, JavaScript, ReactJS, Tailwind CSS, Formik, Redux, Axios, Firebase and cloudflare
 
-Performance:
+Performance📡:
 
   Performance: 96%
   
