@@ -8,7 +8,7 @@
 <p> - 🔸 I’m currently learning - backend technologies 🫡</p>
 <p> - 🔸 All of my projects are available at - <span><a href= 'https://myportfolio515.netlify.app/'>https://myportfolio515.netlify.app/</a></span>
 <p> - 🔸 Know about my experiences - 3 months experience as a frontend web developer at TLF-Talentforge company</p>
-<p> - 🔸 How to reach me - ganeshcherupalli6565@gmail.com</p>
+<p> - 🔸 How to reach me - <a href="mailto:ganeshcherupalli6565@gmail.com">ganeshcherupalli6565@gmail.com</a> </p>
 
 <br/><br/>
 
@@ -20,6 +20,14 @@
 <img width = 50px src='https://github.com/Ganeshdvp/Ganeshdvp/assets/171772708/20e99ae2-1d42-450e-b2fa-488b8e550c7b'/>
 <img width = 50px src='https://github.com/Ganeshdvp/Ganeshdvp/assets/171772708/e7c3f8ec-be9a-4802-a979-509011d9f797'/>
 <img width= 50px src= 'https://github.com/Ganeshdvp/Ganeshdvp/assets/171772708/e16d8228-1b57-4251-8397-9c1f32b9aa73'/>
+
+<img width= 50px src= 'https://cdn3d.iconscout.com/3d/free/thumb/free-tailwind-3d-icon-png-download-7577995.png'/>
+<img width= 50px src= 'https://cdn3d.iconscout.com/3d/free/thumb/free-nodejs-3d-icon-png-download-7578002.png?f=webp'/>
+<img width= 50px src= 'https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png'/>
+<img width= 50px src= 'https://cdn3d.iconscout.com/3d/free/thumb/free-mysql-3d-icon-png-download-7578013.png'/>
+<img width= 50px src= 'https://cdn3d.iconscout.com/3d/free/thumb/free-mongo-db-3d-icon-png-download-7577996.png'/>
+<img width= 50px src= 'https://static.vecteezy.com/system/resources/thumbnails/058/072/302/small_2x/google-firebase-logo-on-transparent-background-free-png.png'/>
+<img width= 50px src= 'https://masterconcept.ai/wp-content/uploads/2022/10/Cloudflare-logo.png'/>
 
  
 </p>
