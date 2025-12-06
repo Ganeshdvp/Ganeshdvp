@@ -6,7 +6,7 @@
 
 <h2>📑Details😃</h2>
 <p> - 🔸 I’m currently learning - backend technologies 🫡</p>
-<p> - 🔸 All of my projects are available at - coming soon..😁</p>
+<p> - 🔸 All of my projects are available at - <p> HyperFlix Link- (<a href= 'https://myportfolio515.netlify.app/'>https://myportfolio515.netlify.app/</a>)</p></p>
 <p> - 🔸 Know about my experiences - Fresher 🤓</p>
 <p> - 🔸 How to reach me - ganeshcherupalli6565@gmail.com</p>
 
