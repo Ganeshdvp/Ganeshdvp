@@ -175,9 +175,9 @@ Impact📌:
 <br/>
 
 <h2>🧐Get in touch🤓</h2>
- <p><a href="www.linkedin.com/in/cherupalli-ganesh"><img width=50px src='https://upload.wikimedia.org/wikipedia/commons/f/f9/Linkedin_Shiny_Icon.svg' alt='linkedin-logo'/></a></p>
- <p><a href="www.linkedin.com/in/cherupalli-ganesh"><img width=50px src='https://upload.wikimedia.org/wikipedia/commons/2/24/Gmail_Faenza.svg' alt='gmail-logo'/></a></p>
-
+ <p><a href="https://www.linkedin.com/in/cherupalli-ganesh"><img width=50px src='https://upload.wikimedia.org/wikipedia/commons/f/f9/Linkedin_Shiny_Icon.svg' alt='linkedin-logo'/></a>
+ <a href="mailto:ganeshcherupalli6565@gmail.com"><img width=50px src='https://upload.wikimedia.org/wikipedia/commons/2/24/Gmail_Faenza.svg' alt='gmail-logo'/></a>
+ </p>
 <br/>
 
 <h2>🤝Let's connect🤝 </h2>
