@@ -6,8 +6,8 @@
 
 <h2>📑Details😃</h2>
 <p> - 🔸 I’m currently learning - backend technologies 🫡</p>
-<p> - 🔸 All of my projects are available at - <p> HyperFlix Link- (<a href= 'https://myportfolio515.netlify.app/'>https://myportfolio515.netlify.app/</a>)</p></p>
-<p> - 🔸 Know about my experiences - Fresher 🤓</p>
+<p> - 🔸 All of my projects are available at - <span><a href= 'https://myportfolio515.netlify.app/'>https://myportfolio515.netlify.app/</a></span>
+<p> - 🔸 Know about my experiences - 3 months experience as a frontend web developer at TLF-Talentforge company</p>
 <p> - 🔸 How to reach me - ganeshcherupalli6565@gmail.com</p>
 
 <br/><br/>
@@ -20,6 +20,8 @@
 <img width = 50px src='https://github.com/Ganeshdvp/Ganeshdvp/assets/171772708/20e99ae2-1d42-450e-b2fa-488b8e550c7b'/>
 <img width = 50px src='https://github.com/Ganeshdvp/Ganeshdvp/assets/171772708/e7c3f8ec-be9a-4802-a979-509011d9f797'/>
 <img width= 50px src= 'https://github.com/Ganeshdvp/Ganeshdvp/assets/171772708/e16d8228-1b57-4251-8397-9c1f32b9aa73'/>
+
+ 
 </p>
 
 <br/>
