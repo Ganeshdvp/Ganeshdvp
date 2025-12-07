@@ -71,7 +71,7 @@ Performance📡:
 Impact📌:
 - Improved user experience with faster load times, reduced API calls, and ensured high accessibility and SEO standards, making the platform efficient and user-friendly.
 
- <p> HyperFlix Link- (<a href= 'https://hyperflix-5h8.pages.dev/'>https://hyperflix-5h8.pages.dev/</a>)</p>
+ <p> HyperFlix Link- (<a href= 'https://movie-listing-react.pages.dev/'>https://movie-listing-react.pages.dev/</a>)</p>
 
 ### Project 2: CryptoTrack a Real-Time Coin Tracking Platform
 
