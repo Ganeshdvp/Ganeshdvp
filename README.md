@@ -5,10 +5,10 @@
 <p align='center'><img src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif' alt='img-developer' /> </p><br/><br/>
 
 <h2>📑Details😃</h2>
-<p> - 🔸 I’m currently learning - backend technologies 🫡</p>
-<p> - 🔸 All of my projects are available at - <span><a href= 'https://myportfolio515.netlify.app/'>https://myportfolio515.netlify.app/</a></span>
-<p> - 🔸 Know about my experiences - 3 months experience as a frontend web developer at TLF-Talentforge company</p>
-<p> - 🔸 How to reach me - <a href="mailto:ganeshcherupalli6565@gmail.com">ganeshcherupalli6565@gmail.com</a> </p>
+<p> 🔸 I’m currently learning - backend technologies 🫡</p>
+<p> 🔸 All of my projects are available at - <span><a href= 'https://myportfolio515.netlify.app/'>https://myportfolio515.netlify.app/</a></span>
+<p> 🔸 Know about my experiences - 3 months experience as a frontend web developer at TLF-Talentforge company</p>
+<p> 🔸 How to reach me - <a href="mailto:ganeshcherupalli6565@gmail.com">ganeshcherupalli6565@gmail.com</a> </p>
 
 <br/><br/>
 
