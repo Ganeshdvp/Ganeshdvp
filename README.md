@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Ganesh</h1>
+<h1 align="center">Hi👋, I'm Ganesh</h1>
 <h3 align="center">A Decent Frontend developer from India</h3>
 
 <p align='center'><img src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif' alt='img-developer' /> </p><br/><br/>
