@@ -46,7 +46,34 @@
 
 <h2> ☑️ Projects 💼 </h2>
 
-### Project 1: HyperFlix – Movie Streaming Platform
+### Project 1: Sandeshan – Real time chat application
+
+Description: Sandeshan is a full-stack real-time chat application built using React.js and Node.js, enabling secure and instant communication between users. It uses WebSockets for real-time messaging and JWT-based authentication with HTTP-only cookies for secure access. The application is optimized for performance and SEO, achieving Lighthouse scores of 100% Performance, 100% Best Practices, and 90% SEO. It is deployed using Vercel (frontend), Render (backend), and MongoDB Atlas (database).
+
+Key Features🛡️:
+- Real-time one-to-one messaging using WebSockets.
+- Secure user authentication and authorization with JWT & HTTP-only cookies
+- Global state management using Redux Toolkit
+- Ensured responsive design compatible with multiple devices and screen sizes.
+- Optimized server-state handling with TanStack Query (caching, refetching)
+- Performance and SEO optimization with Lighthouse 100% Performance & Best Practices.
+- RESTful API architecture with Node.js, Express.js, and MongoDB.
+- Error handling, validation, and API testing using Postman.
+- Scalable cloud deployment on Vercel, Render, and MongoDB Atlas
+- Made by using HTML5, CSS3, JavaScript, ReactJS, Tailwind CSS, Shadcn/ui, Redux toolkit, Axios, Tenstack query, Nodejs, Expressjs, Mongodb.
+
+Performance📡:
+
+  - Performance: 100%
+  
+  - SEO: 90%
+  
+Impact📌:
+- Sandeshan demonstrates the ability to design, build, and deploy a production-ready real-time application with a strong focus on performance, security, and scalability. By leveraging modern frontend and backend technologies, the project delivers fast, reliable user interactions while following industry best practices. The high Lighthouse scores reflect a commitment to quality, optimization, and real-world standards.
+
+ <p> Sandeshan Link- (<a href= 'https://sandeshan-frontend.vercel.app/'>https://sandeshan-frontend.vercel.app/</a>)</p>
+
+### Project 2: HyperFlix – Movie Streaming Platform
 
 Description: Developed a fully responsive movie streaming web application with dynamic movie listing and search functionality. Implemented Firebase authentication for secure user login and registration. Ensured form validations using Formik and optimized API calls with state memorization through Redux and Axios. Enabled multi-language support and deployed the application on Cloudflare for high availability.
 
@@ -73,7 +100,7 @@ Impact📌:
 
  <p> HyperFlix Link- (<a href= 'https://movie-listing-react.pages.dev/'>https://movie-listing-react.pages.dev/</a>)</p>
 
-### Project 2: CryptoTrack a Real-Time Coin Tracking Platform
+### Project 3: CryptoTrack a Real-Time Coin Tracking Platform
 
 Description: Developed a fully responsive Coins tracking web application with dynamic coins listing and search functionality. It offers a user-friendly interface to view real-time coin prices, track investments, and visualize portfolio performance through charts. This project utilizes APIs to fetch live data and includes responsive design for seamless usage across devices.
 
@@ -99,7 +126,7 @@ Impact📌:
 
 <p> CryptoTrack Link- (<a href= 'https://crypto-track515.netlify.app/'>https://crypto-track515.netlify.app/</a>)</p>
 
-### Project 3: Watch Time
+### Project 4: Watch Time
 
 Description: Developed a fully responsive YouTube-like video streaming platform featuring dynamic movie listings, real-time search functionality, and seamless integration with the YouTube Data API to fetch and display videos, channels, and search results.
 
@@ -125,7 +152,7 @@ Impact📌:
 
 <p> Watch Time Link- (<a href= 'https://watch-time-web.netlify.app/'>https://youtubecloneweb-site.netlify.app</a>)</p>
 
-### Project 4: GO-CHAT-AI
+### Project 5: GO-CHAT-AI
 
 Description: Developed a single-page application by using Vite tool with React.js and integrated the Gemini API for real-time conversational capabilities. Focused on responsive UI design, optimized rendering, and seamless user interactions.
 
@@ -152,7 +179,7 @@ Impact📌:
 
 <p> GO-CHAT-AI Link- (<a href= 'https://go-chat-ai.netlify.app/'>https://youtubecloneweb-site.netlify.app</a>)</p>
 
-### Project 5: Portfolio
+### Project 6: Portfolio
 
 Description: Designed and developed a responsive personal portfolio website to showcase projects, skills, and contact information. Focused on clean UI, smooth navigation, and mobile-friendly design for optimal user experience.
 
