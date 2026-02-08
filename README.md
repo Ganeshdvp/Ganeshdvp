@@ -26,6 +26,7 @@
 <img width= 50px src= 'https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png'/>
 <img width= 50px src= 'https://cdn3d.iconscout.com/3d/free/thumb/free-mysql-3d-icon-png-download-7578013.png'/>
 <img width= 50px src= 'https://cdn3d.iconscout.com/3d/free/thumb/free-mongo-db-3d-icon-png-download-7577996.png'/>
+<img width= 50px src= 'https://saas-ui.dev/img/frameworks/tanstack.png'/>
 <img width= 50px src= 'https://static.vecteezy.com/system/resources/thumbnails/058/072/302/small_2x/google-firebase-logo-on-transparent-background-free-png.png'/>
 <img width= 50px src= 'https://masterconcept.ai/wp-content/uploads/2022/10/Cloudflare-logo.png'/>
 
