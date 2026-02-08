@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi👋, I'm Ganesh</h1>
-<h3 align="center">A Decent Frontend developer from India</h3>
+<h3 align="center">A Decent MERN Stack developer from India</h3>
 
 <p align='center'><img src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif' alt='img-developer' /> </p><br/><br/>
 
 <h2>📑Details😃</h2>
-<p> 🔸 I’m currently learning - backend technologies 🫡</p>
+<p> 🔸 I’m continuing learning - technologies 🫡</p>
 <p> 🔸 All of my projects are available at - <span><a href= 'https://myportfolio515.netlify.app/'>https://myportfolio515.netlify.app/</a></span>
 <p> 🔸 Know about my experiences - 3 months experience as a frontend web developer at TLF-Talentforge company</p>
 <p> 🔸 How to reach me - <a href="mailto:ganeshcherupalli6565@gmail.com">ganeshcherupalli6565@gmail.com</a> </p>
@@ -98,7 +98,7 @@ Performance📡:
 Impact📌:
 - Improved user experience with faster load times, reduced API calls, and ensured high accessibility and SEO standards, making the platform efficient and user-friendly.
 
- <p> HyperFlix Link- (<a href= 'https://movie-listing-react.pages.dev/'>https://movie-listing-react.pages.dev/</a>)</p>
+ <p> HyperFlix Link- (<a href= 'https://hyper-flix-nine.vercel.app/'>https://hyper-flix-nine.vercel.app/</a>)</p>
 
 ### Project 3: CryptoTrack a Real-Time Coin Tracking Platform
 
