@@ -1,242 +1,273 @@
-
-<h1 align="center">Hi👋, I'm Ganesh</h1>
-<h3 align="center">A Decent MERN Stack developer from India</h3>
-
-<p align='center'><img src='https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif' alt='img-developer' /> </p><br/><br/>
-
-<h2>📑Details😃</h2>
-<p> 🔸 I’m continuing learning - technologies 🫡</p>
-<p> 🔸 All of my projects are available at - <span><a href= 'https://myportfolio515.netlify.app/'>https://myportfolio515.netlify.app/</a></span>
-<p> 🔸 Know about my experiences - 3 months experience as a frontend web developer at TLF-Talentforge company</p>
-<p> 🔸 How to reach me - <a href="mailto:ganeshcherupalli6565@gmail.com">ganeshcherupalli6565@gmail.com</a> </p>
-
-<br/><br/>
-
-<h2> ⚒️ Technical Skills 🛠️</h2>
-<p>
-<img width=48px src = 'https://upload.wikimedia.org/wikipedia/commons/2/25/HTML5_Shiny_Icon.svg'/>
-<img width = 55px src='https://github.com/Ganeshdvp/Ganeshdvp/assets/171772708/1ce4e46f-ac87-4d78-9331-2f75bb8d56c7'/>
-<img width = 50px src='https://github.com/Ganeshdvp/Ganeshdvp/assets/171772708/7edc48d3-f129-432d-b5df-5c6f58befc65'/>
-<img width = 50px src='https://github.com/Ganeshdvp/Ganeshdvp/assets/171772708/20e99ae2-1d42-450e-b2fa-488b8e550c7b'/>
-<img width = 50px src='https://github.com/Ganeshdvp/Ganeshdvp/assets/171772708/e7c3f8ec-be9a-4802-a979-509011d9f797'/>
-<img width= 50px src= 'https://github.com/Ganeshdvp/Ganeshdvp/assets/171772708/e16d8228-1b57-4251-8397-9c1f32b9aa73'/>
-
-<img width= 50px src= 'https://cdn3d.iconscout.com/3d/free/thumb/free-tailwind-3d-icon-png-download-7577995.png'/>
-<img width= 50px src= 'https://cdn3d.iconscout.com/3d/free/thumb/free-nodejs-3d-icon-png-download-7578002.png?f=webp'/>
-<img width= 50px src= 'https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/87351/express-js.png'/>
-<img width= 50px src= 'https://cdn3d.iconscout.com/3d/free/thumb/free-mysql-3d-icon-png-download-7578013.png'/>
-<img width= 50px src= 'https://cdn3d.iconscout.com/3d/free/thumb/free-mongo-db-3d-icon-png-download-7577996.png'/>
-<img width= 50px src= 'https://saas-ui.dev/img/frameworks/tanstack.png'/>
-<img width= 50px src= 'https://static.vecteezy.com/system/resources/thumbnails/058/072/302/small_2x/google-firebase-logo-on-transparent-background-free-png.png'/>
-<img width= 50px src= 'https://masterconcept.ai/wp-content/uploads/2022/10/Cloudflare-logo.png'/>
-
- 
-</p>
+<table>
+<tr>
+<td width="48%" align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="100%" alt="Developer Banner"/>
+</td>
+<td width="52%" valign="middle">
+<h1>Hi 👋, I'm <strong>Ganesh</strong></h1>
+<h3>Full Stack MERN Developer</h3>
+<br/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=19&duration=2800&pause=900&color=F59E0B&width=520&lines=Building+Production-Ready+Web+Applications;React+%7C+TypeScript+%7C+Node.js+%7C+Express.js;%7C+MongoDB+%7C+MySQL;Clean+Architecture+%7C+APIs+Optimizations;Performance+%7C+Security+%7C+Scalability;Always+Learning+New+Technologies"/>
+</td>
+</tr>
+</table>
 
 <br/>
 
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdnRjY2RlM3N4ZXJ2Njl4N3J0ZXV0YjJvOWlvdGQ0Y3Bndjh0eTR2eSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/juua9i2c2fA0AIp2iq/giphy.gif" width="35"> About Me
 
-<h2> 🔨 Tools ⚒️ </h2>
-<p><img width=50px src='https://github.com/Ganeshdvp/Ganeshdvp/assets/171772708/4f380f8b-5986-496a-aa4a-7dce071f7dbe'/>
- <img width=50px src='https://github.com/Ganeshdvp/Ganeshdvp/assets/171772708/d025f6e6-7be0-4450-b44a-76955aceddc7'/>
- <img width=50px src='https://github.com/Ganeshdvp/Ganeshdvp/assets/171772708/a24015e7-e603-4959-a9e6-e43dcac1a8ac'/>
-  <img width=50px src='https://github.com/Ganeshdvp/Ganeshdvp/assets/171772708/ad321c86-07e2-4854-8f63-3a72c28f8b6c'/>
-</p>
-
-<br/>
-
-<h2> ☑️ Projects 💼 </h2>
-
-### Project 1: Sandeshan – Real time chat application
-
-Description: Sandeshan is a full-stack real-time chat application built using React.js and Node.js, enabling secure and instant communication between users. It uses WebSockets for real-time messaging and JWT-based authentication with HTTP-only cookies for secure access. The application is optimized for performance and SEO, achieving Lighthouse scores of 100% Performance, 100% Best Practices, and 90% SEO. It is deployed using Vercel (frontend), Render (backend), and MongoDB Atlas (database).
-
-Key Features🛡️:
-- Real-time one-to-one messaging using WebSockets.
-- Secure user authentication and authorization with JWT & HTTP-only cookies
-- Global state management using Redux Toolkit
-- Ensured responsive design compatible with multiple devices and screen sizes.
-- Optimized server-state handling with TanStack Query (caching, refetching)
-- Performance and SEO optimization with Lighthouse 100% Performance & Best Practices.
-- RESTful API architecture with Node.js, Express.js, and MongoDB.
-- Error handling, validation, and API testing using Postman.
-- Scalable cloud deployment on Vercel, Render, and MongoDB Atlas
-- Made by using HTML5, CSS3, JavaScript, ReactJS, Tailwind CSS, Shadcn/ui, Redux toolkit, Axios, Tenstack query, Nodejs, Expressjs, Mongodb.
-
-Performance📡:
-
-  - Performance: 100%
-  
-  - SEO: 90%
-  
-Impact📌:
-- Sandeshan demonstrates the ability to design, build, and deploy a production-ready real-time application with a strong focus on performance, security, and scalability. By leveraging modern frontend and backend technologies, the project delivers fast, reliable user interactions while following industry best practices. The high Lighthouse scores reflect a commitment to quality, optimization, and real-world standards.
-
- <p> Sandeshan Link- (<a href= 'https://sandeshan-frontend.vercel.app/'>https://sandeshan-frontend.vercel.app/</a>)</p>
-
-### Project 2: HyperFlix – Movie Streaming Platform
-
-Description: Developed a fully responsive movie streaming web application with dynamic movie listing and search functionality. Implemented Firebase authentication for secure user login and registration. Ensured form validations using Formik and optimized API calls with state memorization through Redux and Axios. Enabled multi-language support and deployed the application on Cloudflare for high availability.
-
-Key Features🛡️:
-- Displayed dynamic movie lists and implemented real-time search functionality.
-- Integrated Firebase authentication for user login and registration.
-- Implemented form validations using Formik for improved user input accuracy.
-- Ensured responsive design compatible with multiple devices and screen sizes.
-- Optimized API calls using Redux for state management and caching.
-- Enhanced accessibility, SEO, and best practices compliance.
-- Deployed on Cloudflare for global performance and reliability.
-- Made by using HTML, CSS, JavaScript, ReactJS, Tailwind CSS, Formik, Redux, Axios, Firebase and cloudflare
-
-Performance📡:
-
-  - Performance: 96%
-  
-  - Accessibility: 95%
-  
-  - SEO: 100%
-  
-Impact📌:
-- Improved user experience with faster load times, reduced API calls, and ensured high accessibility and SEO standards, making the platform efficient and user-friendly.
-
- <p> HyperFlix Link- (<a href= 'https://hyper-flix-nine.vercel.app/'>https://hyper-flix-nine.vercel.app/</a>)</p>
-
-### Project 3: CryptoTrack a Real-Time Coin Tracking Platform
-
-Description: Developed a fully responsive Coins tracking web application with dynamic coins listing and search functionality. It offers a user-friendly interface to view real-time coin prices, track investments, and visualize portfolio performance through charts. This project utilizes APIs to fetch live data and includes responsive design for seamless usage across devices.
-
-Key Features🛡️:
-- Displayed dynamic coins data and implemented real-time search functionality.
-- Interactive portfolio performance charts
-- Implemented form validations using Formik for improved user input accuracy.
-- Ensured responsive design compatible with multiple devices and screen sizes.
-- Enhanced accessibility, SEO, and best practices compliance.
-- Deployed on Netflify for global performance and reliability.
-- Tech Stack:- HTML5, CSS3, JavaScript, ReactJS and Charts.js
-
-Performance📡:
-
-  - Performance: 95%
-  
-  - Accessibility: 100%
-  
-  - SEO: 100%
-  
-Impact📌:
-- Delivered a high-performance real-time tracking experience with optimized API usage and smooth data visualization. Achieved perfect accessibility and SEO scores, resulting in better discoverability, faster insights, and an engaging user experience across all devices.
-
-<p> CryptoTrack Link- (<a href= 'https://crypto-track515.netlify.app/'>https://crypto-track515.netlify.app/</a>)</p>
-
-### Project 4: Watch Time
-
-Description: Developed a fully responsive YouTube-like video streaming platform featuring dynamic movie listings, real-time search functionality, and seamless integration with the YouTube Data API to fetch and display videos, channels, and search results.
-
-Key Features🛡️:
-- Displayed dynamic movie listings and implemented real-time search functionality.
-- Applied debounced search with Redux caching to reduce API calls
-- Implemented form validations using Formik for improved user input accuracy
-- Ensured responsive design compatible with multiple devices and screen sizes.
-- Enhanced accessibility, SEO, and best practices compliance.
-- Deployed on Netlify for global performance and reliability.
-- Tech Stack:- HTML5, CSS3, JavaScript, ReactJS and moment.js
-
-Performance📡:
-
-  - Performance: 97%
-  
-  - Accessibility: 93%
-  
-  - SEO: 100%
-  
-Impact📌:
-- Delivered a smooth, high-performance streaming experience with optimized API usage through debounced search and Redux caching. Achieved exceptional accessibility and SEO scores, resulting in faster navigation, reduced latency, and improved overall user engagement across devices.
-
-<p> Watch Time Link- (<a href= 'https://watch-time-web.netlify.app/'>https://youtubecloneweb-site.netlify.app</a>)</p>
-
-### Project 5: GO-CHAT-AI
-
-Description: Developed a single-page application by using Vite tool with React.js and integrated the Gemini API for real-time conversational capabilities. Focused on responsive UI design, optimized rendering, and seamless user interactions.
-
-Key Features🛡️:
-- Users can give prompt and get response instantly
-- Displays recent chats, new Chat and delete chats
-- Implemented form validations using Formik for improved user input accuracy.
-- Ensured responsive design compatible with multiple devices and screen sizes.
-- Enhanced accessibility, SEO, and best practices compliance.
-- Deployed on Netlify for global performance and reliability.
-- Tech Stack:- HTML5, CSS3, JavaScript, and ReactJS
-
-Performance📡:
-
-  - Performance: 99%
-  
-  - Accessibility: 92%
-  
-  - SEO: 90%
-  
-Impact📌:
-- Delivered a highly responsive and efficient AI chat interface with optimized rendering and minimal API usage, resulting in instant responses and smooth interactions. Enhanced accessibility and SEO compliance boosted usability, performance scores, and overall user engagement across devices.
-
-
-<p> GO-CHAT-AI Link- (<a href= 'https://go-chat-ai.netlify.app/'>https://youtubecloneweb-site.netlify.app</a>)</p>
-
-### Project 6: Portfolio
-
-Description: Designed and developed a responsive personal portfolio website to showcase projects, skills, and contact information. Focused on clean UI, smooth navigation, and mobile-friendly design for optimal user experience.
-
-Key Features🛡️:
-- Designed a clean and visually appealing portfolio interface.
-- Implemented light/dark theme support for enhanced user experience.
-- Ensured responsive design compatible with multiple devices and screen sizes.
-- Enhanced accessibility, SEO, and best practices compliance.
-- Deployed on Netlify for global performance and reliability.
-- Tech Stack:- HTML5, CSS3, JavaScript and Tailwind CSS.
-
-Performance📡:
-
-  - Performance: 92%
-  
-  - Accessibility: 87%
-  
-  - SEO: 91%
-  
-Impact📌:
-- Delivered a high-performance, user-centric portfolio with optimized load times and minimal resource usage. Improved overall accessibility and SEO scores, resulting in better discoverability, smoother navigation, and enhanced user engagement across all devices.
-
-<p> Portfolio Link- (<a href= 'https://myportfolio515.netlify.app/'>https://youtubecloneweb-site.netlify.app</a>)</p>
-
---------------------------------ETC------------------------------------
-
+- 🚀 Full Stack MERN Developer passionate about building scalable and production-ready web applications.
+- ⚛️ Specialized in React, TypeScript, Node.js, Express.js, and MongoDB.
+- 💡 Strong focus on clean architecture, RESTful APIs, performance optimization, and security.
+- 🌱 Currently exploring Apache/Kafka, Docker, AWS, Redis, CI/CD, and System Design.
+- 🎯 Open to Frontend Developer and MERN Stack Developer opportunities.
 
 <br/>
 
-<h2>🧐Get in touch🤓</h2>
- <p><a href="https://www.linkedin.com/in/cherupalli-ganesh"><img width=50px src='https://upload.wikimedia.org/wikipedia/commons/f/f9/Linkedin_Shiny_Icon.svg' alt='linkedin-logo'/></a>
- <a href="mailto:ganeshcherupalli6565@gmail.com"><img width=50px src='https://upload.wikimedia.org/wikipedia/commons/2/24/Gmail_Faenza.svg' alt='gmail-logo'/></a>
- </p>
+## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35"> Tech Stack
+
+<div align="center">
+
+<table width="100%" cellspacing="20">
+
+<tr>
+
+<td width="48%" valign="top">
 <br/>
+<h3 align="center">🎨 Frontend</h3>
+<br/>
+<div align="center">
 
-<h2>🤝Let's connect🤝 </h2>
-<p>I'm always open to collaborations and new opportunities.😊Feel free to reach out..!</p><br/><br/><br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
 
-<h2 align='center'>🫡 Github Status 🗿</h2>
+<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ganeshdvp&label=Profile%20views&color=0e75b6&style=flat" alt="ganeshdvp" /> </p>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 
-<div>
-<p><img align="cnter" src="https://github-readme-stats.vercel.app/api?username=ganeshdvp&show_icons=true&locale=en" alt="ganeshdvp" /></p>
-</div><br/>
-<div>
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=ganeshdvp&show_icons=true&locale=en&layout=compact" alt="ganeshdvp" /></p>
+<br>
+
+<img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white"/>
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white"/>
+
 </div>
-<div>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshdvp&" alt="ganeshdvp" /></p>
-</div><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<div>
-<h1 align='center'>Thanks for visiting here...</h1>
+<br/>
+</td>
+
+<td width="4%"></td>
+
+<td width="48%" valign="top">
+<br/>
+<h3 align="center">⚙️ Backend</h3>
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Authentication_%26_Authorization-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/RESTful_APIs-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/Payment_Gateway-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/WebSockets-010101?style=for-the-badge&logo=socketdotio&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white"/>
+
+</div>
+<br/>
+</td>
+
+</tr>
+
+
+<tr>
+
+<td width="48%" valign="top">
+<br/>
+<h3 align="center">🗄️ Database</h3>
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+</div>
+<br/>
+</td>
+
+<td width="4%"></td>
+
+<td width="48%" valign="top">
+<br/>
+<h3 align="center">🧪 Testing</h3>
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Manual_Testing-4CAF50?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/API_Testing_Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Load_Testing_k6-7D64FF?style=for-the-badge&logo=k6&logoColor=white"/>
+<img src="https://img.shields.io/badge/UptimeRobot-Monitoring-2ECC71?style=for-the-badge"/>
+
+</div>
+<br/>
+
+</td>
+
+</tr>
+
+
+<tr>
+
+<td colspan="2" align="center">
+<br/>
+<h3>🚀 Deployment & Tools</h3>
+<br/>
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black"/>
+<img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<br>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+
+</div>
+<br/>
+
+</td>
+
+</tr>
+
+</table>
+
 </div>
 
+<br/>
 
 
+## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35"> Engineering Highlights
 
 
+<table width="100%">
+
+<tr>
+
+<td width="33%" valign="top">
+
+### 🏗️ Architecture
+- ⚡ Scalable MERN Architecture
+- 🏢 Monolithic Architecture
+- 🧩 Component-Based Architecture
+- 📂 Feature-Based Architecture
+- 🏛️ MVC Backend Architecture
+- 🔗 RESTful API Development
+- 🗂️ Database Schema Design
+
+</td>
+
+<td width="2%"></td>
+
+<td width="33%" valign="top">
+
+### 🚀 Performance
+- 📦 Bundle Optimization
+- 📊 Optimized Large Datasets
+- 🖼️ Image Optimization
+- 🌍 Content Delivery Network (CDN)
+- 💾 Caching Strategies
+- ⚡ API Optimization
+- 🗄️ Database Optimization
+- 📈 Lighthouse Optimization
+
+</td>
+
+<td width="2%"></td>
+
+<td width="33%" valign="top">
+
+### 🔒 Security
+- 🔐 Authentication
+- 🛡️ Authorization
+- 🍪 HTTP-Only Cookies
+- 🚫 Preventing XSS Attacks
+- 🚦 Rate Limiting
+- 🌐 CORS Protection
+- 🔒 Protection of Sensitive Data
+
+</td>
+
+</tr>
+
+<tr><td colspan="5" height="25"></td></tr>
+
+<tr>
+
+<td valign="top">
+
+### 🧪 Testing & Deployment
+- ✅ Manual Testing
+- 📬 API Testing (Postman)
+- ⚡ Load Testing (k6)
+- 📊 Monitoring (UptimeRobot)
+- 🔄 Git & GitHub
+- ▲ Vercel
+- 🚀 Render
+- 🍃 MongoDB Atlas
+
+</td>
+
+<td></td>
+
+<td valign="top">
+
+ ### 💼 Production Features
+- 👤 Authentication Flow
+- 💳 Payment Gateway
+- 🔗 RESTful API Design
+- 🗂️ Database Schema Design
+- 🤖 AI Integrations
+- ☁️ Cloudinary Media Management
+
+</td>
+
+<td></td>
+
+<td valign="top">
+
+### 🎯 Engineering Practices
+- 📐 Clean Code Principles
+- 🧠 Problem Solving
+- 📝 Reusable Components
+- 📱 Responsive Design
+- ♿ Accessibility
+- 🔄 Continuous Learning
+
+</td>
+
+</tr>
+
+</table>
