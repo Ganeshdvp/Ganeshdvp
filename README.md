@@ -306,7 +306,7 @@ Fabricue is a production-ready e-commerce platform designed with scalability, pe
 * **Backend:** Render
 * **Database:** MongoDB Atlas
 
-> **Repository:** *Coming Soon*
+> **Repository:** [https://github.com/Ganeshdvp/Fabricue.git](https://github.com/Ganeshdvp/Fabricue.git)
 > **Live Demo:** [https://fabricue.vercel.app/](https://fabricue.vercel.app/)
 
 <br/>
@@ -337,7 +337,7 @@ Sandeshan is a high-performance real-time chat application built with WebSockets
 * **Backend:** Render
 * **Database:** MongoDB Atlas
 
-> **Repository:** *Coming Soon*
+> **Repository:** [https://github.com/Ganeshdvp/Sandeshan-frontend.git](https://github.com/Ganeshdvp/Sandeshan-frontend.git)
 > **Live Demo:** [https://sandeshan-frontend.vercel.app/](https://sandeshan-frontend.vercel.app/)
 
 <br/>
@@ -370,6 +370,90 @@ HyperFlix is a Netflix-inspired Video application that provides seamless movie d
 
 * **Frontend:** Vercel
 
-> **Repository:** *Coming Soon*
+> **Repository:** [https://github.com/Ganeshdvp/HyperFlix.git](https://github.com/Ganeshdvp/HyperFlix.git)
 > **Live Demo:** [https://hyper-flix-nine.vercel.app/](https://hyper-flix-nine.vercel.app/)
 
+
+<br/>
+
+## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35"> Currently Exploring
+
+I'm continuously expanding my backend and DevOps knowledge by building projects and experimenting with modern distributed systems and deployment workflows.
+
+<div align="center">
+
+|       Technology       | Focus                                           |
+| :--------------------: | :---------------------------------------------- |
+|   📨 **Apache Kafka**  | Event-Driven Architecture & Message Streaming   |
+|       ⚡ **Redis**      | Caching, Pub/Sub & Performance Optimization     |
+|      🐳 **Docker**     | Containerization & Multi-Container Applications |
+| 🚀 **CI/CD Pipelines** | Automated Testing, Building & Deployment        |
+
+</div>
+
+### 🎯 Current Goals
+
+* 🏗️ Build scalable microservice-based applications
+* ⚡ Implement asynchronous communication with Kafka
+* 🚀 Improve application performance using Redis caching
+* 🐳 Containerize full-stack applications with Docker
+* 🔄 Automate deployments using modern CI/CD workflows
+* ☁️ Learn production-ready cloud deployment practices
+
+<br/>
+
+## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35"> GitHub Analytics
+
+
+<div align="center">
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ganeshdvp&theme=github_dark"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ganeshdvp&theme=github_dark"/>
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ganeshdvp&theme=github_dark"/>
+</div>
+<br>
+<div align="center">
+<img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ganeshdvp&theme=github_dark"/>
+</div>
+<br>
+<div align="center">
+<img width="50%" src="https://streak-stats.demolab.com?user=ganeshdvp&theme=github-dark-green&hide_border=true"/>
+</div>
+
+<br/>
+
+## <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35"> Let's Connect
+
+<div align="center">
+*"Great software is built through collaboration, curiosity, and continuous learning."*
+<br/>
+<br/>
+
+<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:YOUR_EMAIL@example.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://YOUR_PORTFOLIO_WEBSITE">
+  <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💼 Open to Opportunities
+
+🟢 **Software Engineer** • **Full-Stack Developer** • **Backend Engineer** • **Frontend Engineer**
+
+**Available for:** Full-Time • Internships • Freelance • Open Source Collaboration
+
+⭐ If you enjoy my projects, I'd appreciate a star on the repositories.
+
+</div>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2563EB,50:4F46E5,100:7C3AED&section=footer"/>
+</p>
