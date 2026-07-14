@@ -271,3 +271,105 @@
 </tr>
 
 </table>
+
+<br/>
+
+# <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="35"> Featured Projects
+
+# 🛍️ Fabricue — Production-Ready Clothing E-Commerce MERN Platform
+
+**Tech Stack**
+
+`React` • `TypeScript` • `Node.js` • `Express.js` • `MongoDB` • `Redux Toolkit` • `TanStack Query` • `Stripe` • `Cloudinary`
+
+Fabricue is a production-ready e-commerce platform designed with scalability, performance, and security at its core. It delivers a complete marketplace experience with AI-powered product discovery, secure payments, orders managements, profile & address managements, seller management, and a modern architecture capable of handling 100+ concurrent real-world traffic.
+
+### ✨ Key Features
+
+* 🔐 Secure JWT Authentication with Role-Based Access Control
+* 🛒 Complete Shopping Experience (Cart, Wishlist & Checkout)
+* 💳 Stripe Payment Gateway Integration
+* 🤖 AI-Powered Product Search
+* 📦 Seller Dashboard with Sales Analytics
+* 👤 User Profiles & Address Management
+* 🤖 FAQ's Optimized Chatbot
+* ☁️ Cloudinary Image Upload & Automatic Optimization
+* ⚡ Intelligent Server-State Management with TanStack Query
+* 📱 Fully Responsive UI Across Devices
+* 🏗️ RESTful APIs following MVC Architecture
+* 🚀 Performance Optimizations using Lazy Loading & Code Splitting
+* 📊 Load Tested using **k6** for production reliability
+
+### 🚀 Deployment
+
+* **Frontend:** Vercel
+* **Backend:** Render
+* **Database:** MongoDB Atlas
+
+> **Repository:** *Coming Soon*
+> **Live Demo:** [https://fabricue.vercel.app/](https://fabricue.vercel.app/)
+
+<br/>
+
+# 💬 Sandeshan — Real-Time Chat Application
+
+**Tech Stack**
+
+`React` • `Redux Toolkit` • `Node.js` • `Express.js` • `MongoDB` • `WebSockets` • `TanStack Query`
+
+Sandeshan is a high-performance real-time chat application built with WebSockets, secure authentication, and efficient server-state management to deliver a smooth messaging experience.
+
+### ✨ Key Features
+
+* 💬 Instant One-to-One Messaging using WebSockets
+* 🔐 JWT Authentication with HTTP-only Cookie Security
+* ⚡ Optimized Data Fetching using TanStack Query
+* ✅ Requests, Friends, BlockList & Profile Managements
+* 🚀 RESTful Backend following MVC Architecture
+* 📱 Responsive & Mobile-Friendly Interface
+* 🧹 Clean, Scalable Backend Structure
+* 📈 Lighthouse Performance Score: **100**
+* ✅ Best Practices Score: **96**
+
+### 🚀 Deployment
+
+* **Frontend:** Vercel
+* **Backend:** Render
+* **Database:** MongoDB Atlas
+
+> **Repository:** *Coming Soon*
+> **Live Demo:** [https://sandeshan-frontend.vercel.app/](https://sandeshan-frontend.vercel.app/)
+
+<br/>
+
+# 🎬 HyperFlix — Netflix-Inspired Video Streaming Platform
+
+### Feature-Rich Movie Discovery Application
+
+**Tech Stack**
+
+`React` • `Redux Toolkit` • `Formik` • `Firebase` • `Axios` • `Tailwind CSS`
+
+HyperFlix is a Netflix-inspired Video application that provides seamless movie discovery, AI-powered search, multilingual support, and secure user authentication while maintaining excellent performance and accessibility scores.
+
+### ✨ Key Features
+
+* 🎥 Browse Trending, Popular & Top-Rated Movies
+* 🎬 Discover Upcoming Releases
+* 🤖 AI-Powered Movie Search
+* 🔍 Movies Recommandations
+* 🌍 Multi-Language Support
+* 🔐 Secure Firebase Authentication
+* ⚡ Optimized API Calls with Axios
+* 📱 Fully Responsive Design
+* 🎯 Lighthouse Performance: **96**
+* ♿ Accessibility: **95**
+* 🔍 SEO Score: **100**
+
+### 🚀 Deployment
+
+* **Frontend:** Vercel
+
+> **Repository:** *Coming Soon*
+> **Live Demo:** [https://hyper-flix-nine.vercel.app/](https://hyper-flix-nine.vercel.app/)
+
