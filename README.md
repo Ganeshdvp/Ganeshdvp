@@ -428,13 +428,13 @@ I'm continuously expanding my backend and DevOps knowledge by building projects 
 <br/>
 <br/>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME">
+<a href="https://www.linkedin.com/in/cherupalli-ganesh">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:YOUR_EMAIL@example.com">
+<a href="mailto:ganeshcherupalli6565@gmail.com">
   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
-<a href="https://YOUR_PORTFOLIO_WEBSITE">
+<a href="https://myportfolio515.netlify.app/">
   <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" />
 </a>
 
